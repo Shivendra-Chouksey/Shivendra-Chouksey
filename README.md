@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[logo]()-->
+<img src="https://github.com/Shivendra-Chouksey/Shivendra-Chouksey/blob/main/Assets/Untitled-1.png">
+
 <h1 align="center">Hi 👋, I'm Shivendra Chouskey</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Shivendra-Chouksey/Shivendra-Chouksey/blob/main/android-logo.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Shivendra-Chouksey/Shivendra-Chouksey/blob/main/android-logo.gif" height="30">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendra-chouksey&label=Profile%20views&color=0e75b6&style=flat" alt="shivendra-chouksey" /> </p>
 

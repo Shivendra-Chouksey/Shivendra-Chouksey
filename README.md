@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<img src=""  height="200">
--->
+
+<img src="https://github.com/Shivendra-Chouksey/Shivendra-Chouksey/blob/main/resource/background.png">
+
 
 <h1 align="center">Hi 👋, I'm Shivendra Chouskey</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
